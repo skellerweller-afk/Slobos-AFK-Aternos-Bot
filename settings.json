@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "EmberBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "TheEmberHeartSeason2.aternos.me",
-    "port": 27586,
+    "port": 51604,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I really like the emberheart minecraft server",
         "I like to play Minecraft!"
       ]
     },
