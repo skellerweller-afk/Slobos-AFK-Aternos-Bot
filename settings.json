@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "EmberBot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "TheEmberHeartSeason2.aternos.me",
