@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "EmberBot",
   "bot-account": {
     "username": "EmberBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "TheEmberHeartSeason2.aternos.me",
